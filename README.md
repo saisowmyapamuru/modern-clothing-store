@@ -78,7 +78,6 @@ git clone https://github.com/your-username/modern-clothing-store.git
 
 3. Run the `index.html` file in your browser
 
----
 
 ## Future Improvements
 
@@ -89,7 +88,6 @@ git clone https://github.com/your-username/modern-clothing-store.git
 - Backend database integration
 - Dark mode support
 
----
 
 ## Learning Outcomes
 
